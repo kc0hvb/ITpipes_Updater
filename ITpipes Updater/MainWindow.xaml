@@ -1,0 +1,26 @@
+﻿<Window x:Class="ITpipes_Updater.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ITpipes V2 Installation Manager" Height="451" Width="822"
+        
+        x:Name="programMainWindow" Icon="Resources/itpipes_logo.png" ResizeMode="CanMinimize">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" SpreadMethod="Reflect">
+            <GradientStop Color="#FF6A9BFF"/>
+            <GradientStop Color="#FF8ABFFF" Offset="0.403"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid >
+        <!--TextBox x:Name="tboxChangeLog" Margin="10,270,10,65" Text="{Binding changeLogText, UpdateSourceTrigger=PropertyChanged, Mode=OneWay}" VerticalScrollBarVisibility="Auto" IsReadOnly="True"/-->
+        <RichTextBox x:Name="rtfboxChangeLog" Margin="0,10,10,72" VerticalScrollBarVisibility="Auto" IsReadOnly="True" IsDocumentEnabled="True" Cursor="Arrow" HorizontalAlignment="Right" Width="423" />
+
+        <Button x:Name="butEngage" Content="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}, Path=DataContext.buttonToEngageUpdateOrInstallDefaultText, UpdateSourceTrigger=PropertyChanged}" Margin="10,355,10,9" Click="butEngage_Click" Background="LightGray" FontFamily="Arial" FontSize="14" />
+
+        <Label x:Name="lblVersionNumber" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="image" Margin="10,47,438,120" Source="/Resources/itpipes_logo.png" Panel.ZIndex="1" Cursor="Hand" MouseDown="HandleRequestNavigate"  />
+        <CheckBox x:Name="cboxReplaceTemplates" Content="Replace Templates" HorizontalAlignment="Left" Margin="37,307,0,89" Width="164" Click="cboxReplaceTemplates_Click" RenderTransformOrigin="-0.604,-3.857"/>
+        <CheckBox x:Name="cboxInstallQSB" Content="Install QSB Counter" HorizontalAlignment="Left" Margin="201,307,0,89" Width="136" Click="cboxInstallQSB_Click"/>
+        <CheckBox x:Name="chkBxForceReinstallation" Visibility="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}, Path=DataContext.displayForceInstallerModeCheckbox}" IsEnabled="True" Content="Force Reinstallation" HorizontalAlignment="Left" Margin="201,326,0,0" VerticalAlignment="Top" Width="132" Click="chkBxForceReinstallation_Click"/>
+        <CheckBox x:Name="cboxMpeg4" Content="Mpeg 4 / H264 Install" HorizontalAlignment="Left" Margin="37,326,0,67" Width="159" Click="cboxMpeg4_Click"/>
+    </Grid>
+</Window>

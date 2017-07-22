@@ -1,0 +1,1090 @@
+--------------------------------------------------
+[1.8.73]
+
+[1923] - removed check for corrupt databases during afs
+--------------------------------------------------
+--------------------------------------------------
+[1.8.72]
+
+[1922] - err msg popup after grouping description field in datalog window
+--------------------------------------------------
+--------------------------------------------------
+[1.8.71]
+
+[1920] - pacp 4.2 export puts conditions out of order
+--------------------------------------------------
+--------------------------------------------------
+[1.8.70]
+
+[1916] - fix null project_type
+[1917] - updated nassco.tpl
+--------------------------------------------------
+--------------------------------------------------
+[1.8.68]
+
+[1914] - remove popup happens when i.t. is drawing grid
+--------------------------------------------------
+--------------------------------------------------
+[1.8.67]
+
+[1909] - lateral launch tab freezes it
+[1912] - updated pacp 4.2 template
+[1913] - added support for ibak counter 2
+--------------------------------------------------
+--------------------------------------------------
+[1.8.66]
+
+[1893] - cannot save reports on multiply inspected assets
+[1906] - recalculate pacp scores for sql project don't work
+[1907] - added pacp 4.2 export
+--------------------------------------------------
+--------------------------------------------------
+[1.8.65]
+
+[1902] - project summary drops 1 inspection every time
+--------------------------------------------------
+--------------------------------------------------
+[1.8.64]
+
+[1894] - sql batch mode printing gives error
+[1902] - project summary drops 1 inspection every time
+--------------------------------------------------
+--------------------------------------------------
+[1.8.63]
+
+[1902] - project summary drops 1 inspection every time
+--------------------------------------------------
+--------------------------------------------------
+[1.8.62]
+
+[1804] - vl3000 text color for running overlay keeps defaulting to blue
+--------------------------------------------------
+--------------------------------------------------
+[1.8.61]
+
+[1901] - unable to save individual reports
+--------------------------------------------------
+--------------------------------------------------
+[1.8.60]
+
+[1898] - batch reports kick in at 20 reports rather than 1
+--------------------------------------------------
+--------------------------------------------------
+[1.8.59]
+
+[1894] - sql batch mode printing gives error
+--------------------------------------------------
+--------------------------------------------------
+[1.8.58]
+
+[1893] - cannot save reports on multiply inspected assets
+--------------------------------------------------
+--------------------------------------------------
+[1.8.57]
+
+[1887] - added ability to set the video capture pin
+[1891] - updated query reports
+--------------------------------------------------
+--------------------------------------------------
+[1.8.56]
+
+[1884] - can navigate away from share pane while burning
+--------------------------------------------------
+--------------------------------------------------
+[1.8.55]
+
+[1775] - viewit and project db not burned to disc
+--------------------------------------------------
+--------------------------------------------------
+[1.8.49]
+
+[1887] - added ability to set the video capture pin
+--------------------------------------------------
+--------------------------------------------------
+[1.8.47]
+
+[956] - macp connection report has issues
+[1856] - mwl must be at 0 distance
+[1868] - manhole connection rim to invert allows &gt; 999.9
+[1869] - page numbering broken when inspections have no pictures
+[1870] - city of la report changes
+[1875] - manhole connection report
+[1882] - recording setting not saved
+[1883] - project date field in all templates does not allow entry
+[1884] - can navigate away from share pane while burning
+[1885] - updated reports from peter
+--------------------------------------------------
+--------------------------------------------------
+[1.8.46]
+
+[1801] - selecting lines from an observation tab for print
+[1862] - copyright error message on report printouts
+[1865] - frame offset distance shows "field1" on macp report
+[1870] - city of la report changes
+[1881] - updated reports from peter
+--------------------------------------------------
+--------------------------------------------------
+[1.8.45]
+
+[1860] - fixed allowing obs after end point in pacp
+--------------------------------------------------
+--------------------------------------------------
+[1.8.44]
+
+[1855] - error starting at any access point other than amh
+--------------------------------------------------
+--------------------------------------------------
+[1.8.43]
+
+[1854] - value 1 or 2 allows greater than 99.999 value
+--------------------------------------------------
+--------------------------------------------------
+[1.8.42]
+
+[1852] - able to stop pacp inspection without ending access point
+[1853] - no limit for decimals in metric val_1st
+--------------------------------------------------
+--------------------------------------------------
+[1.8.41]
+
+[1850] - nassco6 cont. defect with changed value % flags on import
+--------------------------------------------------
+--------------------------------------------------
+[1.8.40]
+
+[1848] - can enter observation without required val_1st_dimensino
+[1850] - nassco6 cont. defect with changed value % flags on import
+--------------------------------------------------
+--------------------------------------------------
+[1.8.40]
+
+[1848] - can enter observation without required val_1st_dimensino
+--------------------------------------------------
+--------------------------------------------------
+[1.8.40]
+
+[1848] - can enter observation without required val_1st_dimensino
+--------------------------------------------------
+--------------------------------------------------
+[1.8.39]
+
+[1839] - pacp 2.2 error log; stop codes
+[1842] - unable to mark an observation as continuous after it's already logged
+[1846] - imperial pacp v6 - mlo- field distance does not allow footage max of 999.9
+--------------------------------------------------
+--------------------------------------------------
+[1.8.38]
+
+[1837] - nassco6 databases detected as nassco4.4
+[1838] - continuous defect added to any observation
+--------------------------------------------------
+--------------------------------------------------
+[1.8.37]
+
+[1836] - pacp import sees nassco 4.4 as nassco6
+--------------------------------------------------
+--------------------------------------------------
+[1.8.35]
+
+[1830] - can go through motions of entering observation with invalid code
+[1831] - imperial limits enforced for metric values
+[1832] - can enter observations after end observation
+[1833] - import, export, import bug
+[1834] - updated custom header report
+--------------------------------------------------
+--------------------------------------------------
+[1.8.34]
+
+[1826] - imperial dimensions allow invalid entry
+[1827] - value 2nd dimension does not permit no entry
+[1828] - cannot enter end defect
+[1829] - value dimensions in imperial permit too many decimal places
+--------------------------------------------------
+--------------------------------------------------
+[1.8.32]
+
+[1829] - value dimensions in imperial permit too many decimal places
+--------------------------------------------------
+--------------------------------------------------
+[1.8.31]
+
+[1827] - value 2nd dimension does not permit no entry
+--------------------------------------------------
+--------------------------------------------------
+[1.8.30]
+
+[1823] - cannot enter whole numbers in portions of metric template
+[1824] - fields do not restrict places in metric template
+[1825] - dimension values not limited in decimal places in metric template
+--------------------------------------------------
+--------------------------------------------------
+[1.8.29]
+
+[1822] - nasscov6 metric does not enforce metric rules
+--------------------------------------------------
+--------------------------------------------------
+[1.8.28]
+
+[1822] - nasscov6 metric does not enforce metric rules
+--------------------------------------------------
+--------------------------------------------------
+[1.8.27]
+
+[1820] - change help file to chm file
+[1822] - nasscov6 metric does not enforce metric rules
+--------------------------------------------------
+--------------------------------------------------
+[1.8.26]
+
+[1819] - fixed coordinate pacp field verification
+--------------------------------------------------
+--------------------------------------------------
+[1.8.25]
+
+[1818] - pacp 22 import does id properly in project
+--------------------------------------------------
+--------------------------------------------------
+[1.8.24]
+
+[1817] - fixed pacp 2.2 import to associate with nassco 6 template
+--------------------------------------------------
+--------------------------------------------------
+[1.8.23]
+
+[1814] - pacp import doesn't import clock positions correctly
+[1815] - fixed projecttitle and gps fields pacp 6 import
+--------------------------------------------------
+--------------------------------------------------
+[1.8.22]
+
+[1813] - added pacp 4.4 export
+--------------------------------------------------
+--------------------------------------------------
+[1.8.21]
+
+[1809] - updated project db to remove memo field
+[1810] - updated all templates
+[1811] - fixed pacp 2.2 import issue
+[1812] - fixed pacp import issue with locking up
+--------------------------------------------------
+--------------------------------------------------
+[1.8.20]
+
+[1808] - pacp 6 export/import/export error
+--------------------------------------------------
+--------------------------------------------------
+[1.8.19]
+
+[1806] - updated the pacp 6 import
+--------------------------------------------------
+--------------------------------------------------
+[1.8.18]
+
+[1798] - cleaned up pacp export log
+[1799] - prevent export if no item selected in grid
+--------------------------------------------------
+--------------------------------------------------
+[1.8.17]
+
+[1783] - cleaned up add project window
+[1785] - allow pacp42 and pacp22
+[1791] - added suggestion for amh/mwl to start pacp inspection
+[1792] - added support for pacp v6
+[1793] - fixed pacp 6 export when exporting media folders
+[1794] - when reports were in the db before video, video would not play
+--------------------------------------------------
+--------------------------------------------------
+[1.8.16]
+
+Updated CD/DVD multidisc burning a bit
+--------------------------------------------------
+--------------------------------------------------
+[1.8.15]
+
+[1770] - file naming breaks intermittently
+[1771] - tweaked video controls for review process
+--------------------------------------------------
+--------------------------------------------------
+[1.8.14]
+
+[1767] - component type not available in mh inspection
+--------------------------------------------------
+--------------------------------------------------
+[1.8.11]
+
+[1765] - all or selected choice when exporting to excel
+[1766] - excel numeric fields weren't numeric
+--------------------------------------------------
+--------------------------------------------------
+[1.8.9]
+
+[1759] - changed burning module to native win 7 imapi2
+--------------------------------------------------
+--------------------------------------------------
+[1.8.8]
+
+[1757] - added review digital video option in inspection
+[1758] - the step forward and step backward was not working while paused
+--------------------------------------------------
+--------------------------------------------------
+[1.8.7]
+
+[1756] - added project summary (completed) report
+--------------------------------------------------
+--------------------------------------------------
+[1.8.6]
+
+[1754] - group label was hidden by component type
+[1755] - descriptor and modifier descriptions weren't displayed
+--------------------------------------------------
+--------------------------------------------------
+[1.8.5]
+
+[1753] - analysis filters not working correct
+--------------------------------------------------
+--------------------------------------------------
+[1.8.4]
+
+[1751] - analysis filter window refresh issue
+[1752] - batch printing was always enabled
+--------------------------------------------------
+--------------------------------------------------
+[1.8.3]
+
+[1748] - it crashes if you try to start lat inspection from a mainline while not recording
+[1750] - cannot generate batch reports in sql
+--------------------------------------------------
+--------------------------------------------------
+[1.8.2]
+
+[1746] - hit enter on searchbox would not search
+[1747] - need way to force vl3000 text color
+--------------------------------------------------
+--------------------------------------------------
+[1.8.1]
+
+[1419] - merge screen - quick filtering looses the grid display.
+[1745] - no running overlay for vl3000
+--------------------------------------------------
+--------------------------------------------------
+[1.7.99]
+
+[1304] - pacp errors pop up after recording stops
+[1411] - edit default tab
+[1419] - merge screen - quick filtering looses the grid display.
+[1716] - pacp import error for kd code
+[1728] - resuming inspection with missing inf causes error
+[1732] - import pacp database doesn't give error
+[1737] - canceling lateral launch inspection causes runtime error
+[1738] - recording manhole inspection gives error
+[1742] - nassco6 pacp export requires media label
+[1743] - filter ' from observation remarks to avoid freeze
+--------------------------------------------------
+
+--------------------------------------------------
+[1.7.98]
+
+[1423] - pacp import errors on media label
+[1716] - pacp import error for kd code
+[1725] - no overlay for vl3000
+[1726] - unable to pacp export with reports missing
+[1727] - when counter is off, overlay does not change when footage changes
+[1728] - resuming inspection with missing inf causes error
+[1733] - freeze when filtering observation remarks
+[1739] - aries type counter causes preset to run-time error
+--------------------------------------------------
+--------------------------------------------------
+[1.7.97]
+
+[1725] - no overlay for vl3000
+--------------------------------------------------
+--------------------------------------------------
+[1.7.96]
+
+[1721] - lateral and mh reports do not display in viewit
+[1724] - cannot view lateral inspections in viewit
+--------------------------------------------------
+--------------------------------------------------
+[1.7.95]
+
+[1714] - unable to take snapshots in sql while editing an inspection
+[1715] - unable to export to hard drive from sql project
+[1718] - sql media not attached to db
+--------------------------------------------------
+--------------------------------------------------
+[1.7.94]
+
+[1723] - resume video doesn't merge inf files
+--------------------------------------------------
+--------------------------------------------------
+[1.7.94]
+
+[1721] - lateral and mh reports do not display in viewit
+[1722] - crash when displaying query report for lateral assets
+--------------------------------------------------
+--------------------------------------------------
+[1.7.93]
+
+[1720] - wasn't reading metadata from wmv files
+--------------------------------------------------
+--------------------------------------------------
+[1.7.92]
+
+[1706] - viewit does not see reports
+[1710] - n/a on overlay until a code is entered
+[1711] - add message box when .inf files are missing
+[1712] - viewer does not open or show video controls unless next to project mdb
+[1717] - autosize columns when clicking on tabs
+[1718] - sql media not attached to db
+--------------------------------------------------
+--------------------------------------------------
+[1.7.90]
+
+[1440] - unable to scroll through snapshots using viewit
+[1704] - viewit doesn't display data when burned to cd/dvd
+[1707] - transfer of items to hdd/dvd not sending the inf files
+[1708] - view it is not looking for the database on the cd/dvd
+--------------------------------------------------
+--------------------------------------------------
+[1.7.89]
+
+[1701] - links for videos and snapshots broken
+[1702] - add modified date to mli
+[1703] - writevideodata.on added
+--------------------------------------------------
+--------------------------------------------------
+[1.7.87]
+
+[1700] - change writedata after inspection
+--------------------------------------------------
+--------------------------------------------------
+[1.7.86]
+
+[1693] - filter an observation field shows incorrect inspection
+[1699] - fixed afs bug with 2 c:'s
+--------------------------------------------------
+--------------------------------------------------
+[1.7.85]
+
+[1173] - certificate number not auto-populated
+[1679] - runtime error when merging with a tab that has both asset and inspection fields
+[1693] - filter an observation field shows incorrect inspection
+[1698] - prevent merge from obs tab
+--------------------------------------------------
+--------------------------------------------------
+[1.7.84]
+
+[1689] - deleting a filter while in sql edit mode issue
+[1690] - when editing a tab, while in analysis mode issue
+--------------------------------------------------
+--------------------------------------------------
+[1.7.83]
+
+[1697] - it scans all folders in same folder as project db
+--------------------------------------------------
+--------------------------------------------------
+[1.7.82]
+
+[1696] - fixed analysis when selecting the none item
+--------------------------------------------------
+--------------------------------------------------
+[1.7.80]
+
+[1683] - analyze button activates when not licensed
+[1686] - analysis filter not producing correct results
+--------------------------------------------------
+--------------------------------------------------
+[1.7.79]
+
+[1682] - usb4 not working
+--------------------------------------------------
+--------------------------------------------------
+[1.7.79]
+
+[1682] - usb4 not working
+--------------------------------------------------
+--------------------------------------------------
+[1.7.78]
+
+[1679] - runtime error when merging with a tab that has both asset and inspection fields
+[1681] - force reindex/afs after hitting stop video recording.
+--------------------------------------------------
+--------------------------------------------------
+[1.7.77]
+
+[1678] - free space not displaying (status bar)
+--------------------------------------------------
+--------------------------------------------------
+[1.7.76]
+
+[1667] - cannot view snapshots or reports
+[1676] - added check for corrupted dbs in afs
+[1677] - stopping a paused video errors
+--------------------------------------------------
+--------------------------------------------------
+[1.7.75]
+
+[1662] - cannot add additional snapshot
+--------------------------------------------------
+--------------------------------------------------
+[1.7.74]
+
+[1671] - error and freeze when counter is disabled
+--------------------------------------------------
+--------------------------------------------------
+[1.7.73]
+
+[1669] - cannot update directly to 1771 from 1644
+--------------------------------------------------
+--------------------------------------------------
+[1.7.70]
+
+[1664] - plot graphic shows laterals on wrong side
+--------------------------------------------------
+--------------------------------------------------
+[1.7.51]
+
+[1649] - it does not close when using vl3000
+[1656] - new "all images" report added
+--------------------------------------------------
+--------------------------------------------------
+[1.7.49]
+
+[1645] - can delete an observation accidentally by replacing it with null
+[1649] - it does not close when using vl3000
+[1654] - rearranged observation panel is not saved
+[1655] - added turnrehab.on file for missing &amp; replace obs
+--------------------------------------------------
+--------------------------------------------------
+[1.7.48]
+
+[1403] - there are no manhole or lateral default overlays in nasscov6 template
+[1643] - added obs_revision to db &amp; gui
+--------------------------------------------------
+--------------------------------------------------
+[1.7.47]
+
+[629] - does not allow zero characters in mlo.remarks
+[636] - measureit
+[1613] - unable to change month on a date field
+[1625] - quickfill inspection info run-time error
+[1629] - greater than less than filters
+[1633] - unable to take snapshots on existing inspections/videos when media is on a network drive
+[1638] - updated reports
+--------------------------------------------------
+--------------------------------------------------
+[1.7.46]
+
+[1622] - fixing inspections takes longer than it should
+[1630] - unable to display # in tab
+--------------------------------------------------
+--------------------------------------------------
+[1.7.45]
+
+[1627] - added a logfile for inspection fixing to troubleshoot bug
+[1628] - updated left plot
+--------------------------------------------------
+--------------------------------------------------
+[1.7.44]
+
+[1619] - crash- entering thru asset info- crash when hits the diameter field
+[1621] - updated summary report for laterals again
+[1623] - prevent non wmv files from being checked to see if they are valid
+--------------------------------------------------
+--------------------------------------------------
+[1.7.43]
+
+[1618] - updated summary report for laterals
+--------------------------------------------------
+--------------------------------------------------
+[1.7.42]
+
+[1458] - crash - clean up project folder
+[1587] - viewit locked up if findit opened and exited
+[1590] - mlo fields on overlay do not clear with code
+[1593] - custom tabs named 'assets' cannot be edited
+[1598] - confirmation box when entering sql query view
+[1607] - save sql query inside of the user file for tabs
+[1612] - able to export to excel via copy with header
+[1613] - unable to change month on a date field
+[1615] - screen refresh - optimization
+[1616] - error that video is invalid before recording new inspections
+[1617] - video file was being renamed in afs incorrectly
+--------------------------------------------------
+--------------------------------------------------
+[1.7.41]
+
+[1440] - unable to scroll through snapshots using viewit
+[1607] - save sql query inside of the user file for tabs
+[1608] - combo drop-down run-time error
+[1609] - viewit doesn't display distances and plot correctly
+[1610] - user files weren't closing properly and leaving a .tmp file behind
+[1611] - can we set a default inspection type to load on start up instead of mainline.
+--------------------------------------------------
+--------------------------------------------------
+[1.7.40]
+
+[1403] - there are no manhole or lateral default overlays in nasscov6 template
+[1572] - error/crash saving to desktop
+[1600] - inspected_length is not being populated in .inf or media file
+[1603] - incorrect syntax near ')'
+[1605] - importing a .wmv with metadata already causes a duplication issue
+--------------------------------------------------
+--------------------------------------------------
+[1.7.39]
+
+[1601] - updated merge code
+--------------------------------------------------
+--------------------------------------------------
+[1.7.38]
+
+[1601] - updated merge code
+--------------------------------------------------
+--------------------------------------------------
+[1.7.37]
+
+[1150] - internal merge "write to field" doesn't work
+[1600] - inspected_length is not being populated in .inf or media file
+--------------------------------------------------
+--------------------------------------------------
+[1.7.36]
+
+[1597] - upgraded the asset window grid to 4.7
+--------------------------------------------------
+--------------------------------------------------
+[1.7.35]
+
+[1376] - manhole quickprint reports
+[1595] - added option to not check if media exists on pacp export
+[1596] - media label wasn't being checked for on pacp 2.2, 4.2, 4.4 export
+--------------------------------------------------
+--------------------------------------------------
+[1.7.34]
+
+[1524] - no longer ask to exit software when saving settings when exiting already
+[1585] - video files with semicolons cause export problems
+--------------------------------------------------
+--------------------------------------------------
+[1.7.33]
+
+[1448] - license error crashes it
+[1532] - cannot add a continuous defect in edit mode
+[1589] - removed right click on observation enter button
+[1591] - could not analyze field if it was a memo field
+[1592] - tweaked the advanced query building for and/or
+--------------------------------------------------
+--------------------------------------------------
+[1.7.32]
+
+[761] - refresh for coming out of analysis module
+[1169] - grid refresh when creating smart-tab
+[1531] - attempting to select 'deposits' reverts to 'deformed'
+[1554] - specific quicksearch crashes it
+[1574] - grouping by 2 columns clears out grid
+[1586] - pacp import gives fix template error.
+--------------------------------------------------
+--------------------------------------------------
+[1.7.31]
+
+[1582] - error when fixing media on a project that does not contain .inf files
+[1583] - added question box to ask user if they want to fix the afs and media on export
+[1584] - semi-automated turnoverlay.off
+--------------------------------------------------
+--------------------------------------------------
+[1.7.30]
+
+[1514] - can only quickfilter asset data in sql
+[1515] - fix video info button temp disabled
+[1517] - cannot rescore sql pacp db
+[1575] - moved fix inspection during pacp export to after folder selection
+[1578] - added done msgbox after pacp recalculation
+[1580] - changed the pacp grade scoring at all points in the software
+--------------------------------------------------
+--------------------------------------------------
+[1.7.29]
+
+[1515] - fix video info button temp disabled
+[1567] - observation disappears after taking additional snapshot
+[1568] - unable to sort columns in assets workspace
+[1569] - if col width was set to 0, then the asset grid would not show
+--------------------------------------------------
+--------------------------------------------------
+[1.7.28]
+
+[1295] - adjustment: from edit/review mode to asset list
+[1508] - plot graphic doesn't refresh when selecting an asset with no inspection
+[1509] - plot graphic shows 2 laterals on a line with no inspection
+[1515] - fix video info button temp disabled
+[1518] - crash when deleting report type
+[1526] - 2 second lag when entering data into asset fields
+[1536] - additional snapshot button active before inspection starts
+[1559] - auto update afs on every inspection when adding asset info
+[1563] - additional blank column when grid number is turned off
+[1564] - cleaned up column grid refresh &amp; drawing
+--------------------------------------------------
+--------------------------------------------------
+[1.7.27]
+
+[1562] - columns were not loading and saving width correctly
+--------------------------------------------------
+--------------------------------------------------
+[1.7.26]
+
+[1526] - 2 second lag when entering data into asset fields
+[1535] - sql - quickprint snapshot error
+[1538] - quickprint save crash
+[1557] - custom dropdowns didn't save when enter pressed
+[1558] - automatic fix file media/inspection when merging or exporting
+[1559] - auto update afs on every inspection when adding asset info
+[1560] - datalog didn't display the number column
+--------------------------------------------------
+--------------------------------------------------
+[1.7.25]
+
+[1513] - tab bug - assets blank
+--------------------------------------------------
+--------------------------------------------------
+[1.7.24]
+
+[1512] - crash when printing project summary
+[1516] - cannot perform pacp export from sql
+[1530] - custom sql query from asset tab creates default tabs
+[1533] - video playback does not resume after viewing snapshot in edit mode
+[1538] - quickprint save crash
+[1552] - asset list disappears switching between modules
+[1553] - able to cut from project workspace
+--------------------------------------------------
+--------------------------------------------------
+[1.7.23]
+
+[1513] - tab bug - assets blank
+[1550] - updated pressure module
+--------------------------------------------------
+--------------------------------------------------
+[1.7.21]
+
+[1523] - ado &amp; database stuff fixed
+--------------------------------------------------
+
+--------------------------------------------------
+[1.7.17]
+
+[1510] - updated connection reports
+--------------------------------------------------
+--------------------------------------------------
+[1.7.16]
+
+[1506] - fixed plot refresh issue
+[1507] - fixed plot locking up when too many obs were logged
+--------------------------------------------------
+--------------------------------------------------
+[1.7.15]
+
+[1500] - unable to edit tab after applying filter
+[1503] - plot wasn't resizing obs text
+[1504] - plot lateral graphics fixed
+[1505] - plot observation start position starts at beginning of pipe
+--------------------------------------------------
+--------------------------------------------------
+[1.7.14]
+
+[1497] - unfinished tabs cause asset change issues
+[1499] - preset button crashes it
+--------------------------------------------------
+--------------------------------------------------
+[1.7.13]
+
+[1496] - default tab created
+[1497] - unfinished tabs cause asset change issues
+[1498] - saved filter doesn't work
+--------------------------------------------------
+--------------------------------------------------
+[1.7.12]
+
+[1494] - do not have to press enter after entering a custom dropdown in the asset info
+[1495] - codes in some templates were not updating the selected code
+--------------------------------------------------
+--------------------------------------------------
+[1.7.11]
+
+[1492] - updated mh custom reporting
+[1493] - loading a large set of media crashed it
+--------------------------------------------------
+--------------------------------------------------
+[1.7.10]
+
+[1395] - highlighting multiple lines takes a long time
+--------------------------------------------------
+--------------------------------------------------
+[1.7.9]
+
+[1491] - video convert and measure fix
+--------------------------------------------------
+--------------------------------------------------
+[1.7.8]
+
+[1244] - delete observation/snapshot button active before starting inspection
+[1295] - adjustment: from edit/review mode to asset list
+[1431] - stuck in edit mode, must end task
+[1438] - mh media not being transferred with viewit
+[1445] - cannot inspect manhole asset w/ coordinates
+[1490] - stuck in edit mode after inspection
+--------------------------------------------------
+--------------------------------------------------
+[1.7.7]
+
+[1485] - blinks on and off slowly when no media found
+[1486] - copy to media-all inspection option. no media is sent
+[1487] - cannot select access target when merging from sql
+[1488] - copy .inf files in merge
+[1489] - updated login graphic
+--------------------------------------------------
+--------------------------------------------------
+[1.7.6]
+
+[1471] - ipek de03sw updates every 5-6 seconds
+[1482] - unable to delete assets with inspections associated
+--------------------------------------------------
+--------------------------------------------------
+[1.7.5]
+
+[28] - macp header
+[952] - manhole report -images 4 per page
+[953] - manhole report -images 4 per page
+[954] - manhole report -images 1 per page
+[1439] - viewit displays an error when closed
+[1459] - left window (workspace window) gray, crashes it
+[1473] - ipek does not preset correctly
+[1475] - updated reports
+[1476] - viewit crash without inf file
+[1477] - viewit doesn't display information with only 1 video
+[1478] - cannot merge mainline data
+[1479] - more report updates
+--------------------------------------------------
+--------------------------------------------------
+[1.7.4]
+
+[1439] - viewit displays an error when closed
+[1463] - asset deleted when x'ng out of the popup window
+[1464] - error and crash when using a sql project
+[1465] - plot graphic displaying too many lateral icons
+[1467] - update graphics
+[1474] - updated mh reporting
+--------------------------------------------------
+--------------------------------------------------
+[1.7.3]
+
+[1415] - usb4 stops counting while entering observation
+[1466] - modified case sensativity so clean folder would work
+--------------------------------------------------
+--------------------------------------------------
+[1.7.2]
+
+[1108] - cannot merge lateral data 'up'
+[1244] - delete observation/snapshot button active before starting inspection
+[1390] - reverse counter does nothing with usb4
+[1429] - does not merge assets when only merging last inspection
+[1455] - delete inspection was not deleting the .inf file
+[1457] - updated nassco templates
+--------------------------------------------------
+--------------------------------------------------
+[1.7.1]
+
+[842] - clean up project folder button issues (2)
+[1068] - overlay styles available update only after entering edit mode
+[1108] - cannot merge lateral data 'up'
+[1219] - add project that is already in list causes cursor to go to hourglass
+[1226] - clean folder requires multiple button pushes to clean a folder
+[1244] - delete observation/snapshot button active before starting inspection
+[1295] - adjustment: from edit/review mode to asset list
+[1333] - lower half of merge screen does not change assets
+[1354] - create filter in analyze automatically applies filter to tab
+[1375] - macp button doesn't work
+[1392] - merge not refreshing target
+[1411] - edit default tab
+[1412] - unable to quick filter date
+[1417] - display video name and path when hovering mouse on it
+[1418] - tabs overlap field headers
+[1420] - asset toolbar in inspection screen
+[1421] - unable to highlight the first project in the list
+[1424] - entering color settings disables asset/inspection info
+[1426] - delete project prompts that you cannot click and drag
+[1429] - does not merge assets when only merging last inspection
+--------------------------------------------------
+--------------------------------------------------
+[1.7.0.0]
+
+[1382] - it crash deleting projects
+[1413] - cannot have more than 1 tab if unlicensed
+[1414] - usb4 only works briefly
+--------------------------------------------------
+--------------------------------------------------
+[1.6.99]
+
+[804] - feature - picture of header info
+[1068] - overlay styles available update only after entering edit mode
+[1097] - unable to remove report link in db via show report files when report is missing
+[1110] - pacp export runtime when trying to export laterals
+[1111] - city is required
+[1164] - easy to accidentally import same project several times
+[1165] - project name allows : causes run-time error
+[1223] - media strip video unable to be stopped
+[1366] - viewit will not open lateral or manhole inspections
+[1373] - updated custom reports
+[1378] - pacp export is exporting bad inspection
+[1381] - added default tab for assets
+[1382] - it crash deleting projects
+[1390] - reverse counter does nothing with usb4
+[1399] - added hourglass to nassco validate import db
+[1400] - added status box on pacp import db
+[1401] - fixed pacp 2.2, 4.2 import when adding project for
+[1404] - when pressing menu buttons, the text is bold now
+[1405] - when selecting a different asset type, it is forced to go back to asset window from menu
+[1406] - added import question after testing pacp import db
+--------------------------------------------------
+--------------------------------------------------
+[1.6.98]
+
+[804] - feature - picture of header info
+[892] - s/w not saving what inspection is selected
+[984] - auto delete option for missing projects in project list
+[1011] - show report files not updating
+[1026] - delete selected inspection
+[1037] - can inspect a non-existent asset
+[1044] - additional functionality in simple filter - needs removed
+[1058] - project information report builds for all assets in batch print mode
+[1062] - project information report can include other reports
+[1097] - unable to remove report link in db via show report files when report is missing
+[1350] - lose filter detail after viewing sql query
+[1358] - sql query view crash
+[1364] - added custom sql query check
+[1365] - must select a filter before customizing it
+[1368] - updated reports
+[1369] - added custom 1 report
+[1370] - simple filtering was slow when loading dropdown
+[1371] - greatly sped up simple filtering
+--------------------------------------------------
+--------------------------------------------------
+[1.6.97]
+
+[1341] - minimize button steals focus
+[1346] - manhole inspection in viewit has pipe graphic
+[1349] - grouping with filters causes extra sub-groups
+[1350] - lose filter detail after viewing sql query
+[1357] - up/down arrows don't work to go through fields
+[1362] - analyze: filter stays applied
+[1363] - filter items are cleared out when adding custom sql entry
+--------------------------------------------------
+--------------------------------------------------
+[1.6.96]
+
+[1347] - delete observation after stopping inspection
+[1353] - filter by multiple dates creates a bad query
+[1355] - edit inspection gray out exit button
+--------------------------------------------------
+--------------------------------------------------
+[1.6.95]
+
+[1340] - error when filtering inspection date in sql
+[1345] - removed tester message
+--------------------------------------------------
+--------------------------------------------------
+[1.6.94]
+
+[1321] - graphic in viewit always displays as downstream
+[1335] - viewer disks must have &gt;1 inspections
+[1338] - bottom of data log was getting cut off
+[1340] - error when filtering inspection date in sql
+[1341] - minimize button steals focus
+--------------------------------------------------
+--------------------------------------------------
+[1.6.93]
+
+[1322] - add lateral locations to viewit plot
+[1323] - continually prompts if you can't connect to sql server
+[1331] - user file can be corrupted
+[1332] - updated plot report
+[1334] - option to have msgbox on preset button
+[1336] - it will now create a .bak each time it opens a template or user file
+--------------------------------------------------
+--------------------------------------------------
+[1.6.92]
+
+[1177] - cannot have lateral overlay header
+[1325] - failing pacp requirement has no error but will not let you exit edit mode
+[1326] - observations do not take snapshots
+[1328] - create new project crash
+[1329] - fixed viewit to work with gisviewit
+[1330] - added ability to insert a custom sql query
+--------------------------------------------------
+--------------------------------------------------
+[1.6.91]
+
+[1177] - cannot have lateral overlay header
+[1258] - cannot edit lateral overlay after inspection has started
+[1311] - added recalculate inspection tally to fix inspection
+[1312] - hide the overlay edit button if the overlay module is not enabled
+[1313] - added an icon for digital zoom button
+[1314] - changed icon for text overlay editing
+[1315] - when exiting overlay edit, not all items that should be clearing were clearing.
+[1316] - allow a default overlay style to be selected for each asset type
+[1317] - when adding an item to the overlay, the new item was not showing up on screen.
+[1318] - could not have a new header overlay style without items in it
+[1319] - when exiting overlay editor, it was not selecting the default overlay style from the dropdown
+[1320] - mainline videos could not merge after doing a lateral launch inspection
+--------------------------------------------------
+--------------------------------------------------
+[1.6.90]
+
+[1309] - cannot add 'grade' to a tab
+[1310] - observation tabs do not retain column order/width
+--------------------------------------------------
+--------------------------------------------------
+[1.6.89]
+
+[1268] - no data file to import
+[1275] - lateral inspection doesn't save length surveyed
+[1278] - fix individual inspection loop
+[1302] - lateral launch works without laterals being licensed
+[1303] - viewit does not populate list of laterals from db
+[1305] - number column in data log wasn't autosizing
+[1306] - changed background color on plot graphic to match blue
+[1307] - ability to resize the viewit inspection list
+[1308] - afs was putting the drive letter in the file_path
+--------------------------------------------------
+--------------------------------------------------
+[1.6.88]
+
+[1144] - can oversize observation columns but no working horizontal scrollbar
+[1296] - no video capture module causes double-click to review videos
+[1298] - allow stop pacp inspection, even if it isn't finished
+[1299] - added new project summary report for la
+[1300] - updated pdf dll for batch reporting
+[1301] - prevent user from clicking on buttons while reports are generating
+--------------------------------------------------
+--------------------------------------------------
+[1.6.87]
+
+1291	sped up loading the observation codes when starting an inspection		
+1292	Status Bar flashing						
+1293	changed sizemb in db from text to numeric
+--------------------------------------------------
+--------------------------------------------------
+[1.6.86]
+
+1289	Observations with no modifier do not populate options	
+1290	Hot Buttons are broken	
+
+--------------------------------------------------
+--------------------------------------------------
+[1.6.85]
+
+1136	Cannot perform inspection in SQL	
+1279	pause/resume button wasn't working right	
+1281	crash when overlay edit buttons visible when they shouldn't be	
+1283	Crash when trying to edit overlay after inspection has started	
+1285	Observation stays highlighted	
+1287	Nassco Button missing	
+1288	Plot Report doesn't stay up switching between assets	
+--------------------------------------------------
+
